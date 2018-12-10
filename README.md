@@ -1,2 +1,3 @@
 # FreeCRM
-FreeCRM
+FreeCRM POM design
+
